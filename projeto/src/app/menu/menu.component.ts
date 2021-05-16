@@ -25,6 +25,11 @@ export class MenuComponent implements OnInit {
         label: 'Usuario',
         icon: 'pi pi-fw pi-user',
         routerLink:'usuario'
+      },
+      {
+        label: 'Estados',
+        icon: 'pi pi-fw pi-globe',
+        routerLink:'estados'
       }
     ];
 
