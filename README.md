@@ -32,7 +32,7 @@ Instalar o angular 7 -> npm install -g @angular/cli@7.1.0
 2- git clone https://github.com/thiago-jv/Angula-7-Essencial-.git
 3- Entrar dentro da pasta do projeto
 4- ng serve   -> nesse passo o projeto Agular irá build
-5- localhost:4200
+5- http://localhost:4200
 
 
 6- Entrar dentro da pasta do projeto -> crud-simples
