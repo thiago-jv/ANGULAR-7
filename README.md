@@ -20,9 +20,9 @@ Instalar o angular 7 -> npm install -g @angular/cli@7.1.0
 
 4 - Angula 7 [Sobre](https://angular.io/)
 
-5- Nodejs [Sobre] (https://nodejs.org/pt-br/about/)
+5- Nodejs [Sobre](https://nodejs.org/pt-br/about/)
 
-6- Primeng [Sobre] (ttps://www.primefaces.org/primeng/)
+6- Primeng [Sobre](ttps://www.primefaces.org/primeng/)
 
 
 
