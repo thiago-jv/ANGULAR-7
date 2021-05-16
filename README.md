@@ -6,7 +6,7 @@ O maven deve está instalado, caso não esteja segue o link [maven](https://dica
 
 Instalar e configurar o java, caso não esteja segue o link [java](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26)
 
-Nodejs [Nodejs] (https://nodejs.org/pt-br/download/)
+Nodejs [Nodejs](https://nodejs.org/pt-br/download/)
 
 Instalar o angular 7 -> npm install -g @angular/cli@7.1.0
 
