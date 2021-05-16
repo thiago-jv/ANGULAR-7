@@ -18,10 +18,16 @@ Instalar e configurar o java, caso não esteja segue o link [java](https://mediu
 # Proceso para rodar o projeto
 ```
 1- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
-2- git clone 
-3- Entrar dentro da pasta do projeto 
-4- mvn dependency:resolve
-5- mvn dependency:tree
-6- mvn package
-7- mvn spring-boot:run
+2- git clone https://github.com/thiago-jv/Angula-7-Essencial-.git
+3- Entrar dentro da pasta do projeto
+4- ng serve   -> nesse passo o projeto Agular irá build
+5- localhost:4200
+
+
+6- Entrar dentro da pasta do projeto -> crud-simples
+7- mvn dependency:resolve
+8- mvn dependency:tree
+9- mvn package
+10- mvn spring-boot:run
+11- http://localhost:8080/usuario 
 ```
