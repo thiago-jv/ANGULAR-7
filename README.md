@@ -31,14 +31,14 @@ Instalar o angular 7 -> npm install -g @angular/cli@7.1.0
 1- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
 2- git clone https://github.com/thiago-jv/Angula-7-Essencial-.git
 3- Entrar dentro da pasta do projeto
-4- ng serve   -> nesse passo o projeto Agular irá build
-5- http://localhost:4200
+4- npm install
+5- ng serve   -> nesse passo o projeto Agular irá build
+6- http://localhost:4200
 
-
-6- Entrar dentro da pasta do projeto -> crud-simples
-7- mvn dependency:resolve
-8- mvn dependency:tree
-9- mvn package
-10- mvn spring-boot:run
-11- http://localhost:8080/usuario 
+7- Entrar dentro da pasta do projeto -> crud-simples
+8- mvn dependency:resolve
+9- mvn dependency:tree
+10- mvn package
+11- mvn spring-boot:run
+12- http://localhost:8080/usuario 
 ```
